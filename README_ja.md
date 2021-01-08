@@ -15,7 +15,7 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 
 
 経歴(時系列順ではありません)
-- 友人と共に **walklets.com** の企画、開発
+- 友人と共に [**walklets.com**](walklets.com) の企画、開発
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
 - [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
