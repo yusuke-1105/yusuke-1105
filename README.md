@@ -15,13 +15,13 @@ My favorite things to do are to watch movies and to think of systems that might 
 I also created my circle's [blog](https://kuclubdtk.hateblo.jp), a place where everyone of it can do [activities](https://github.com/DTK-CreativeStudio) and [learnings](https://github.com/DTK-CreativeStudio/Course) online. And did [a special site](https://kudtk844412490.wordpress.com) for my University’s festival (including videos).
 
 Recently, I've been into [**Docker**](https://www.docker.com), and I've created  
-a part of [walklets.com](walklets.com) (Docker-based AI image processing service)  
+a part of [walklets.com](https://walklets.com) (Docker-based AI image processing service)  
 and the [U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) (access control system).
 
 My Career (Not in chronological order)
 
 - I collaborated with a friend
-to develop [**walklets.com**](walklets.com).
+to develop [**walklets.com**](https://walklets.com).
 
 - I have studied abroad in Australia and Taiwan.
 - Won the Excellence Award at *TGL College 2019 Development Contest*

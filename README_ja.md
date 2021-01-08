@@ -11,11 +11,11 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 はじめまして😆
 好きなことは映画を見ることと、人の役に立ちそうなシステムを考えることです。画像処理系のプログラミングをよくしてきて、1番できる言語はPythonです。他にもC言語とか、Java(?)、html、cssができます。過去には[**MATLAB**](https://www.mathworks.com/products/matlab.html)や[**ROS**](http://wiki.ros.org/Documentation)を使用したことがあります。あと、サークルの[ブログ](https://kuclubdtk.hateblo.jp)や、みんながオンラインで[活動できる場](https://github.com/DTK-CreativeStudio)や[学べる場](https://github.com/DTK-CreativeStudio/Course)、[学祭特設サイト(動画も)](https://kudtk844412490.wordpress.com)作ったりしました。
 
-最近は[**Docker**](https://www.docker.com)にハマっていて、Dockerで動く[walklets.com](walklets.com)(開発継続中のAI画像処理サービス)や[入退室管理システム](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)を作ったりもしました。
+最近は[**Docker**](https://www.docker.com)にハマっていて、Dockerで動く[walklets.com](https://walklets.com)(開発継続中のAI画像処理サービス)や[入退室管理システム](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)を作ったりもしました。
 
 
 経歴(時系列順ではありません)
-- 友人と共に [**walklets.com**](walklets.com) の企画、開発
+- 友人と共に [walklets.com](https://walklets.com) の企画、開発
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
 - [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
