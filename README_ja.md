@@ -9,7 +9,7 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 
 # 自己紹介  
 はじめまして😆
-好きなことは映画を見ることと、人の役に立ちそうなシステムを考えることです。画像処理系のプログラミングをよくしてきて、1番できる言語はPythonです。他にもC言語とか、Java(?)、html、cssができます。過去には[**MATLAB**](https://www.mathworks.com/products/matlab.html)や[**ROS**](http://wiki.ros.org/Documentation)を使用したことがあります。あと、サークルの[ブログ](https://kuclubdtk.hateblo.jp)や、みんながオンラインで[活動できる場](https://github.com/DTK-CreativeStudio)や[学べる場](https://github.com/DTK-CreativeStudio/Course)、[学祭特設サイト(動画も)](https://kudtk844412490.wordpress.com)作ったりしました。
+好きなことは映画を見ることと、人の役に立ちそうなシステムを考えることです。画像処理系のプログラミングをよくしてきて、1番できる言語はPythonです。他にもC言語とか、Swift、Java(?)、html、cssができます。過去には[**MATLAB**](https://www.mathworks.com/products/matlab.html)や[**ROS**](http://wiki.ros.org/Documentation)を使用したことがあります。あと、サークルの[ブログ](https://kuclubdtk.hateblo.jp)や、みんながオンラインで[活動できる場](https://github.com/DTK-CreativeStudio)や[学べる場](https://github.com/DTK-CreativeStudio/Course)、[学祭特設サイト(動画も)](https://kudtk844412490.wordpress.com)作ったりしました。
 
 最近は[**Docker**](https://www.docker.com)にハマっていて、Dockerで動く[walklets.com](https://walklets.com)(開発継続中のAI画像処理サービス)や[入退室管理システム](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)を作ったりもしました。
 
@@ -19,7 +19,7 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
 - [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
-- [**intel AI Park**](https://webinar.intel.com/IntelAIPark) にて開催された ***intel three challenges***](https://webinar.intel.com/IntelAIPark#openvino)でAIトレンド賞を獲得
+- [**intel AI Park**](https://webinar.intel.com/IntelAIPark) にて開催された [***intel three challenges***](https://webinar.intel.com/IntelAIPark#openvino)でAIトレンド賞を獲得
 - 大学の理系学生向けのイベント等を企画([Spring 8](http://www.spring8.or.jp/en/)や[スパコン京](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname)を見学しに行きました。見学先や宿泊先、バスの手配など数社に見積もりを問い合わせをしたりしました。またポスターやパンフレット等の制作も行いました。)
 
 
