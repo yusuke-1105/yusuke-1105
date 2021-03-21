@@ -19,6 +19,7 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
 - [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
+- [**intel AI Park**](https://webinar.intel.com/IntelAIPark) にて開催された ***intel three challenges***](https://webinar.intel.com/IntelAIPark#openvino)でAIトレンド賞を獲得
 - 大学の理系学生向けのイベント等を企画([Spring 8](http://www.spring8.or.jp/en/)や[スパコン京](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname)を見学しに行きました。見学先や宿泊先、バスの手配など数社に見積もりを問い合わせをしたりしました。またポスターやパンフレット等の制作も行いました。)
 
 
