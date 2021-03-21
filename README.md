@@ -26,7 +26,7 @@ to develop [**walklets.com**](https://walklets.com).
 - I have studied abroad in Australia and Taiwan.
 - Won the Excellence Award at *TGL College 2019 Development Contest*
 - Runner-up in the [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) finals
-- Won the "AI Trend" Award of [***intel three challenges***](https://webinar.intel.com/IntelAIPark#openvino) in [**intel AI Park**](https://webinar.intel.com/IntelAIPark)
+- Won the "AI Trend" Award of [***intel three challenges 2021***](https://webinar.intel.com/IntelAIPark#openvino) in [**intel AI Park**](https://webinar.intel.com/IntelAIPark)
 - Organized events for my university student.
   (We went to visit [Spring 8](http://www.spring8.or.jp/en/) and the supercomputer [K computer(京)](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname). I contacted several companies or organizations for quotes on places to visit, accommodations, and bus arrangements. I also produced posters and pamphlets  and so on).
 
