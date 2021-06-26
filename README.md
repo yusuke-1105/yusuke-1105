@@ -12,7 +12,7 @@ Hi😆
 I am a university student living in Japan.
 My favorite things to do are to watch movies and to think of systems that might be useful to people. I've been doing programming for image processing systems, and the language I can do best is *Python*. I can also program in *C language, Swift, Java(?), html, and css*. I've used [**MATLAB**](https://www.mathworks.com/products/matlab.html) and [**ROS**](http://wiki.ros.org/Documentation) in the past.  
 
-I also created my circle's [blog](https://kuclubdtk.hateblo.jp), a place where everyone of it can do [activities](https://github.com/DTK-CreativeStudio) and [learnings](https://github.com/DTK-CreativeStudio/Course) online. And did [a special site](https://kudtk844412490.wordpress.com) for my University’s festival (including videos).
+I also created my club's [blog](https://kuclubdtk.hateblo.jp), a place where everyone belonging to it can do [activities](https://github.com/DTK-CreativeStudio) and [learnings](https://github.com/DTK-CreativeStudio/Course) online. And created [a special site](https://kudtk844412490.wordpress.com) for my University’s festival (including videos).
 
 Recently, I've been into [**Docker**](https://www.docker.com), and I've created  
 a part of [walklets.com](https://walklets.com) (Docker-based AI image processing service)  
