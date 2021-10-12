@@ -8,7 +8,7 @@
 This document is also available in [Japanese](https://github.com/yusuke-1105/yusuke-1105/blob/main/README_ja.md).  
 
 # Self-introduction  
-Hi😆  
+<!-- Hi😆  
 I am a university student living in Japan.
 My favorite things to do are to watch movies and to think of systems that might be useful to people. I've been doing programming for image processing systems, and the language I can do best is *Python*. I can also program in *C language, Swift, Java(?), html, and css*. I've used [**MATLAB**](https://www.mathworks.com/products/matlab.html) and [**ROS**](http://wiki.ros.org/Documentation) in the past.  
 
@@ -16,12 +16,12 @@ I also created my club's [blog](https://kuclubdtk.hateblo.jp), a place where eve
 
 Recently, I've been into [**Docker**](https://www.docker.com), and I've created  
 a part of [walklets.com](https://walklets.com) (Docker-based AI image processing service)  
-and the [U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) (access control system).
+and the [U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) (access control system). -->
 
 My Career (Not in chronological order)
 
-- I collaborated with a friend
-to develop [**walklets.com**](https://walklets.com).
+<!-- - I collaborated with a friend
+to develop [**walklets.com**](https://walklets.com). -->
 - I joined the [Intel's OVaaS](https://ovaas.netlify.app) project to coorperate to develop some AI Image Processing Programs.  
 - I have studied abroad in Australia and Taiwan.
 - Won the Excellence Award at *TGL College 2019 Development Contest*
@@ -33,8 +33,8 @@ to develop [**walklets.com**](https://walklets.com).
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Object_Detection)](https://github.com/yusuke-1105/Object_Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=AWS-Robot-Delivery-Challenge)](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=Course)](https://github.com/DTK-CreativeStudio/Course)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Search-on-Twitter)](https://github.com/yusuke-1105/Search-on-Twitter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Search-on-Twitter)](https://github.com/yusuke-1105/Search-on-Twitter) -->
