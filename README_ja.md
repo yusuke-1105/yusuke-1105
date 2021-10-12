@@ -16,7 +16,7 @@ This document is also available in [English](https://github.com/yusuke-1105/yusu
 
 経歴(時系列順ではありません)
 <!-- - 友人と共に [walklets.com](https://walklets.com) の企画、開発 -->
-- インテル株式会社の[OVaaS](https://ovaas.netlify.app) プロジェクトへAI画像処理プログラムの提供をしています。  
+- インテル株式会社の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムの提供をしています。  
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
 - [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
