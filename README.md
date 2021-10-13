@@ -32,9 +32,8 @@ to develop [**walklets.com**](https://walklets.com). -->
 
 
 
-
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Object_Detection)](https://github.com/yusuke-1105/Object_Detection)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Object_Detection)](https://github.com/yusuke-1105/Object_Detection) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=AWS-Robot-Delivery-Challenge)](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=Course)](https://github.com/DTK-CreativeStudio/Course)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Search-on-Twitter)](https://github.com/yusuke-1105/Search-on-Twitter) -->
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Search-on-Twitter)](https://github.com/yusuke-1105/Search-on-Twitter) -->
