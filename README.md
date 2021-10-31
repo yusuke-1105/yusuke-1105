@@ -22,7 +22,7 @@ My Career (Not in chronological order)
 
 <!-- - I collaborated with a friend
 to develop [**walklets.com**](https://walklets.com). -->
-- I joined the [Intel's OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project to coorperate to develop some AI Image Processing Programs.  
+- I joined the [OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project to coorperate to develop some AI Image Processing Programs.  
 - I have studied abroad in Australia and Taiwan.
 - Won the Excellence Award at *TGL College 2019 Development Contest*
 - Runner-up in the [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) finals
