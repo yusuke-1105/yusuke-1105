@@ -31,9 +31,7 @@ to develop [**walklets.com**](https://walklets.com). -->
   (We went to visit [Spring 8](http://www.spring8.or.jp/en/) and the supercomputer [K computer(京)](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname). I contacted several companies or organizations for quotes on places to visit, accommodations, and bus arrangements. I also produced posters and pamphlets  and so on).
 
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=AI-Bread-Detection)](https://github.com/yusuke-1105/AI-Bread-Detection)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Object_Detection)](https://github.com/yusuke-1105/Object_Detection) -->
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=AWS-Robot-Delivery-Challenge)](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=Course)](https://github.com/DTK-CreativeStudio/Course)
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=Search-on-Twitter)](https://github.com/yusuke-1105/Search-on-Twitter) -->
