@@ -1,22 +1,19 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-1105&show_icons=true&hide_border=truecount_private=true&title_color=333333&text_color=000000&bg_color=45,EEFFFF,BAD3FF" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuke-1105&count_private=true&show_icons=true&show_icons=true&hide_border=true&cache_seconds=10000&&title_color=333333&text_color=&bg_color=-15,C2EEFF,FFDDFF&line_height=27" />
-</a>  
+</a>   -->
 
 This document is also available in [English](https://github.com/yusuke-1105/yusuke-1105/blob/main/README.md).  
 
 # 自己紹介  
-<!-- はじめまして😆
-好きなことは映画を見ることと、人の役に立ちそうなシステムを考えることです。画像処理系のプログラミングをよくしてきて、1番できる言語はPythonです。他にもC言語とか、Swift、Java(?)、html、cssができます。過去には[**MATLAB**](https://www.mathworks.com/products/matlab.html)や[**ROS**](http://wiki.ros.org/Documentation)を使用したことがあります。あと、サークルの[ブログ](https://kuclubdtk.hateblo.jp)や、みんながオンラインで[活動できる場](https://github.com/DTK-CreativeStudio)や[学べる場](https://github.com/DTK-CreativeStudio/Course)、[学祭特設サイト(動画も)](https://kudtk844412490.wordpress.com)作ったりしました。
-
-最近は[**Docker**](https://www.docker.com)にハマっていて、Dockerで動く[walklets.com](https://walklets.com)(開発継続中のAI画像処理サービス)や[入退室管理システム](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)を作ったりもしました。 -->
-
 
 経歴(時系列順ではありません)
-<!-- - 友人と共に [walklets.com](https://walklets.com) の企画、開発 -->
-- インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムの提供をしています  
+- 関西大学大学院に所属
+- HoloLens2のARを使用し，タスクに対するヒントや他者視点を提示することで創造支援を行うシステムを研究中（Unity/C#, fastapi/Python）。 
+- 友人と共に [walklets.com](https://walklets.com) の企画、開発
+- インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供  
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
 - [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
