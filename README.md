@@ -12,7 +12,7 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 My Career (Not in chronological order)
 
 - Working on the idea support system at lab of Kansai University Graduate School. My system supports ideas by presenting hints and other people's viewpoints on tasks using the AR of HoloLens2 (Unity/C#, fastapi/Python)  
-- Developing [**walklets.com**](https://walklets.com) <[Detail](https://kudtk844412490.wordpress.com/2021/10/26/walklets-ai/)>
+- Developing [**walklets.com**](https://app.walklets.com) <[Detail](https://kudtk844412490.wordpress.com/2021/10/26/walklets-ai/)>
 - Joinied the [OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project to coorperate to develop some AI Image Processing Programs  
 - Studied abroad in Australia and Taiwan
 - Won the Excellence Award at *TGL College 2019 Development Contest*
