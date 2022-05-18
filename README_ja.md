@@ -12,7 +12,7 @@ This document is also available in [English](https://github.com/yusuke-1105/yusu
 経歴(時系列順ではありません)
 - 関西大学大学院に所属
 - HoloLens2のARを使用し，タスクに対するヒントや他者視点を提示することで創造支援を行うシステムを研究中（Unity/C#, fastapi/Python）。 
-- 友人と共に [walklets.com](https://walklets.com) の企画、開発
+- 友人と共に [walklets.com](https://app.walklets.com) の企画、開発
 - インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供  
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
