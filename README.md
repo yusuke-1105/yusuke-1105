@@ -18,6 +18,7 @@ My Career (Not in chronological order)
 - Won the Excellence Award at *TGL College 2019 Development Contest*
 - Runner-up in the [***AWS Robot Delivery Challenge***](https://aws.amazon.com/jp/robot-delivery-challenge/) finals
 - Won the "AI Trend" Award of [***intel three challenges 2021***](https://webinar.intel.com/IntelAIPark#openvino) in [**intel AI Park**](https://webinar.intel.com/IntelAIPark)
+- Selected for Country/Region/Territory Recognition of [Intel® AI Global Impact 2022 Festival](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) (AI Impact Creators Category – Ages 18+: Students with AI Projects)
 - Organized events for my university student  
   [Spring 8](http://www.spring8.or.jp/en/) and the [K computer(京)](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname), Asahi Kasei's factory tour, etc  
   Arrangements for tours, accommodations, buses, etc  
