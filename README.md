@@ -11,14 +11,14 @@ This document is also available in [Japanese](https://github.com/yusuke-1105/yus
 
 My Career (Not in chronological order)
 
-- Working on the idea support system at lab of Kansai University Graduate School. My system supports ideas by presenting hints and other people's viewpoints on tasks using the AR of HoloLens2 (Unity/C#, fastapi/Python)  
+- Working on a creative thinking support system at [KIS LAB](https://www.kis.kansai-u.ac.jp) of Kansai University Graduate School. My system supports ideas by presenting hints and others viewpoints on tasks using the AR of HoloLens2 (Unity/C#, fastapi/Python)  
 - Developing [**walklets.com**](https://app.walklets.com) <[Detail](https://kudtk844412490.wordpress.com/2021/10/26/walklets-ai/)>
 - Joinied the [OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project to coorperate to develop some AI Image Processing Programs  
 - Studied abroad in Australia and Taiwan
 - Won the Excellence Award at *TGL College 2019 Development Contest*
 - Runner-up in the [***AWS Robot Delivery Challenge 2020***](https://aws.amazon.com/jp/robot-delivery-challenge/) finals
 - Won the "AI Trend" Award of [***intel three challenges 2021***](https://webinar.intel.com/IntelAIPark#openvino) in [**intel AI Park**](https://webinar.intel.com/IntelAIPark)
-- Selected for Country/Region/Territory Recognition of [Intel® AI Global Impact 2022 Festival](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) (AI Impact Creators Category – Ages 18+: Students with AI Projects)
+- Selected for Country/Region/Territory Recognition of [***Intel® AI Global Impact 2022 Festival***](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) (AI Impact Creators Category – Ages 18+: Students with AI Projects)
 - Organized events for my university student  
   [Spring 8](http://www.spring8.or.jp/en/) and the [K computer(京)](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname), Asahi Kasei's factory tour, etc  
   Arrangements for tours, accommodations, buses, etc  
