@@ -16,7 +16,7 @@ This document is also available in [English](https://github.com/yusuke-1105/yusu
 - インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供  
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
-- [***AWS Robot Delivery Challenge 2020***](https://aws.amazon.com/jp/robot-delivery-challenge/) 決勝戦 準優勝
+- [***AWS Robot Delivery Challenge 2020***](https://aws.amazon.com/jp/robot-delivery-challenge/comments/) 決勝戦 準優勝
 - [***intel AI Park***](https://webinar.intel.com/IntelAIPark) のイベントである [***intel three challenges 2021***](https://webinar.intel.com/IntelAIPark#openvino)においてAIトレンド賞を獲得
 - [***Intel® AI Global Impact Festival 2022***](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) でCountry/Region/Territory Recognitionに選出 (AI Impact Creators Category – Ages 18+: Students with AI Projects)
 - 大学の理系学生向けのイベント等を企画  
