@@ -17,7 +17,7 @@ jobs:
       - name: Overview metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.overview.svg
           base: "header, activity, community, metadata"
           config_timezone: Asia/Tokyo
@@ -25,7 +25,7 @@ jobs:
       - name: Top languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.languages.svg
           base: ""
           plugin_languages: yes
@@ -36,7 +36,7 @@ jobs:
       - name: Contribution calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.calendar.svg
           base: ""
           plugin_isocalendar: yes
@@ -45,7 +45,7 @@ jobs:
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.achievements.svg
           base: ""
           plugin_achievements: yes
