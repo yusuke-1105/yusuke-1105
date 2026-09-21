@@ -11,9 +11,9 @@
 # 自己紹介
 
 経歴(時系列順ではありません)
-- 関西大学大学院に所属
-- HoloLens2を活用し，「タスクヒント」や「他者視点」の提示により発想支援を行うシステムに関して研究中（Unity/C#, fastapi/Python）。
-- 友人と共に [walklets.com](https://app.walklets.com) を企画，開発
+- 関西大学大学院に所属していました
+- HoloLens2を活用し，「タスクヒント」や「他者視点」の提示により発想支援を行うシステムを研究していました（Unity/C#, fastapi/Python）。
+- 友人と共に [walklets.com](https://app.walklets.com) を企画，開発しました
 - インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
@@ -27,9 +27,8 @@
 
 ## 🔭 最近取り組んでいること
 
-- [**inventory-management**](https://github.com/yusuke-1105/inventory-management) — Claude Code ワークショップ用ベースアプリとして構築した工場向け在庫管理システム（Vue）
 - [**english-phrase-book**](https://github.com/yusuke-1105/english-phrase-book) — IT業界で働く人向けの英語フレーズ集（22章・271フレーズ）
-- [**mcp-azure-client**](https://github.com/yusuke-1105/mcp-azure-client) — Azure MCP サーバーに接続してツールを実行できるインタラクティブCLI（Python）
+- [**player-one**](https://github.com/the-ready/player-one) — 関東エリアのイベント・映画・ライブ情報を横断検索できる静的ダッシュボード（JavaScript）
 
 ## 🛠️ Tech Stack
 
@@ -37,24 +36,28 @@
 
 ## 📌 主なプロジェクト
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OVaaS&repo=ovaas-backend&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/OVaaS/ovaas-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=AI-Bread-Detection&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/yusuke-1105/AI-Bread-Detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=inventory-management&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/yusuke-1105/inventory-management)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=english-phrase-book&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/yusuke-1105/english-phrase-book)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=AWS-Robot-Delivery-Challenge&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge)
+| Repo | 概要 | 言語 | Stars |
+| --- | --- | --- | --- |
+| [OVaaS/ovaas-backend](https://github.com/OVaaS/ovaas-backend) | OVaaSプロジェクトのAI画像処理バックエンド | ![lang](https://img.shields.io/github/languages/top/OVaaS/ovaas-backend?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/OVaaS/ovaas-backend?style=flat-square&label=%20) |
+| [yusuke-1105/inventory-management](https://github.com/yusuke-1105/inventory-management) | 工場向け在庫管理システム（Claude Code ワークショップ用アプリ） | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/inventory-management?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/inventory-management?style=flat-square&label=%20) |
+| [yusuke-1105/english-phrase-book](https://github.com/yusuke-1105/english-phrase-book) | IT業界で働く人向けの英語フレーズ集 | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/english-phrase-book?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/english-phrase-book?style=flat-square&label=%20) |
+| [yusuke-1105/AI-Bread-Detection](https://github.com/yusuke-1105/AI-Bread-Detection) | YOLOXでパンの合計金額を算出 | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) |
+| [DTK-CreativeStudio/U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) | DTK Creative Studioでのチームプロジェクト | ![lang](https://img.shields.io/github/languages/top/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) |
+| [DTK-CreativeStudio/AWS-Robot-Delivery-Challenge](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge) | AWS Robot Delivery Challenge 2020 準優勝作品 | ![lang](https://img.shields.io/github/languages/top/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) |
 
 ## 📊 GitHub Stats
 
+> [lowlighter/metrics](https://github.com/lowlighter/metrics) を GitHub Actions で実行し（`.github/workflows/metrics.yml`）、このリポジトリ内でSVGを生成しています。落ちやすい公開デモ版（github-readme-stats／trophy／activity-graph）に依存しないための対応です。
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yusuke-1105&show_icons=true&count_private=true&hide_border=true&title_color=333333&text_color=000000&icon_color=333333&bg_color=-15,C2EEFF,FFDDFF" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-1105&layout=compact&hide_border=true&count_private=true&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.overview.svg" alt="GitHub Metrics Overview" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.languages.svg" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuke-1105&hide_border=true&background=EEFFFF,00BAD3FF&ring=333333&fire=FF7A7A&currStreakLabel=333333&sideLabels=333333&dates=666666" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuke-1105&bg_color=ffffff&color=333333&line=6C9BFF&point=FF7A7A&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.calendar.svg" alt="Contribution Calendar" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yusuke-1105&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.achievements.svg" alt="Achievements" />
 
 </div>
