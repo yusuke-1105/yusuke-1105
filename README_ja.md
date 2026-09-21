@@ -2,9 +2,7 @@
 
 <b>日本語</b> ・ <a href="https://github.com/yusuke-1105/yusuke-1105/blob/main/README.md">English</a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Yusuke%E3%81%A7%E3%81%99+%F0%9F%91%8B;%E9%96%A2%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2+KIS+LAB+%E6%89%80%E5%B1%9E;AI+%C3%97+AR+%C3%97+%E7%99%BA%E6%83%B3%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%92%E7%A0%94%E7%A9%B6%E4%B8%AD" alt="Typing SVG" />
-
-![Profile Views](https://komarev.com/ghpvc/?username=yusuke-1105&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81Yusuke%E3%81%A7%E3%81%99+%F0%9F%91%8B;AI+%C3%97+AR+%C3%97+%E7%99%BA%E6%83%B3%E6%94%AF%E6%8F%B4%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0;%E7%8F%BE%E5%9C%A8%E3%81%AFplayer-one%E3%82%92%E9%96%8B%E7%99%BA%E4%B8%AD" alt="Typing SVG" />
 
 </div>
 
@@ -27,8 +25,8 @@
 
 ## 🔭 最近取り組んでいること
 
+- 🔥 [**player-one**](https://github.com/the-ready/player-one) — 現在最も力を入れているプロジェクト。関東エリアのイベント・映画・ライブ情報を横断検索できる静的ダッシュボード（JavaScript）
 - [**english-phrase-book**](https://github.com/yusuke-1105/english-phrase-book) — IT業界で働く人向けの英語フレーズ集（22章・271フレーズ）
-- [**player-one**](https://github.com/the-ready/player-one) — 関東エリアのイベント・映画・ライブ情報を横断検索できる静的ダッシュボード（JavaScript）
 
 ## 🛠️ Tech Stack
 
@@ -38,12 +36,12 @@
 
 | Repo | 概要 | 言語 | Stars |
 | --- | --- | --- | --- |
-| [OVaaS/ovaas-backend](https://github.com/OVaaS/ovaas-backend) | OVaaSプロジェクトのAI画像処理バックエンド | ![lang](https://img.shields.io/github/languages/top/OVaaS/ovaas-backend?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/OVaaS/ovaas-backend?style=flat-square&label=%20) |
-| [yusuke-1105/inventory-management](https://github.com/yusuke-1105/inventory-management) | 工場向け在庫管理システム（Claude Code ワークショップ用アプリ） | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/inventory-management?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/inventory-management?style=flat-square&label=%20) |
-| [yusuke-1105/english-phrase-book](https://github.com/yusuke-1105/english-phrase-book) | IT業界で働く人向けの英語フレーズ集 | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/english-phrase-book?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/english-phrase-book?style=flat-square&label=%20) |
-| [yusuke-1105/AI-Bread-Detection](https://github.com/yusuke-1105/AI-Bread-Detection) | YOLOXでパンの合計金額を算出 | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) |
-| [DTK-CreativeStudio/U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) | DTK Creative Studioでのチームプロジェクト | ![lang](https://img.shields.io/github/languages/top/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) |
-| [DTK-CreativeStudio/AWS-Robot-Delivery-Challenge](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge) | AWS Robot Delivery Challenge 2020 準優勝作品 | ![lang](https://img.shields.io/github/languages/top/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) |
+| 🔥 [the-ready/player-one](https://github.com/the-ready/player-one) | **現在最優先で取り組んでいるプロジェクト** — 関東エリアのイベント・映画・ライブ情報を横断検索できるダッシュボード | ![lang](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![stars](https://img.shields.io/github/stars/the-ready/player-one?style=flat-square&label=%20) |
+| [yusuke-1105/english-phrase-book](https://github.com/yusuke-1105/english-phrase-book) | IT業界で働く人向けの英語フレーズ集 | ![lang](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![stars](https://img.shields.io/github/stars/yusuke-1105/english-phrase-book?style=flat-square&label=%20) |
+| [yusuke-1105/AI-Bread-Detection](https://github.com/yusuke-1105/AI-Bread-Detection) | YOLOXでパンの合計金額を算出 | ![lang](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![stars](https://img.shields.io/github/stars/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) |
+| [OVaaS/ovaas-backend](https://github.com/OVaaS/ovaas-backend) | OVaaSプロジェクトのAI画像処理バックエンド | ![lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/OVaaS/ovaas-backend?style=flat-square&label=%20) |
+| [DTK-CreativeStudio/U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) | DTK Creative Studioでのチームプロジェクト | ![lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) |
+| [DTK-CreativeStudio/AWS-Robot-Delivery-Challenge](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge) | AWS Robot Delivery Challenge 2020 準優勝作品 | — | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) |
 
 ## 📊 GitHub Stats
 
