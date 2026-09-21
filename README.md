@@ -44,9 +44,12 @@ My Career (Not in chronological order)
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.overview.svg" alt="GitHub Metrics Overview" />
-<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.languages.svg" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuke-1105&hide_border=true&background=EEFFFF,00BAD3FF&ring=333333&fire=FF7A7A&currStreakLabel=333333&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yusuke-1105&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7A7A&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=yusuke-1105&hide_border=true&background=EEFFFF,00BAD3FF&ring=333333&fire=FF7A7A&currStreakLabel=333333&sideLabels=333333&dates=666666" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuke-1105&hide_border=true&background=EEFFFF,00BAD3FF&ring=333333&fire=FF7A7A&currStreakLabel=333333&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+</picture>
 
 <img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.calendar.svg" alt="Contribution Calendar" />
 
