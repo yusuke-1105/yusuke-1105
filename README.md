@@ -37,24 +37,28 @@ My Career (Not in chronological order)
 
 ## 📌 Pinned Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=OVaaS&repo=ovaas-backend&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/OVaaS/ovaas-backend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=AI-Bread-Detection&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/yusuke-1105/AI-Bread-Detection)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=inventory-management&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/yusuke-1105/inventory-management)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yusuke-1105&repo=english-phrase-book&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/yusuke-1105/english-phrase-book)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=U.N.I.O.N.&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/DTK-CreativeStudio/U.N.I.O.N.)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DTK-CreativeStudio&repo=AWS-Robot-Delivery-Challenge&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF)](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge)
+| Repo | Description | Language | Stars |
+| --- | --- | --- | --- |
+| [OVaaS/ovaas-backend](https://github.com/OVaaS/ovaas-backend) | AI image processing backend for the OVaaS project | ![lang](https://img.shields.io/github/languages/top/OVaaS/ovaas-backend?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/OVaaS/ovaas-backend?style=flat-square&label=%20) |
+| [yusuke-1105/inventory-management](https://github.com/yusuke-1105/inventory-management) | Factory inventory management system (Claude Code workshop app) | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/inventory-management?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/inventory-management?style=flat-square&label=%20) |
+| [yusuke-1105/english-phrase-book](https://github.com/yusuke-1105/english-phrase-book) | English phrase collection for IT service industry workers | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/english-phrase-book?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/english-phrase-book?style=flat-square&label=%20) |
+| [yusuke-1105/AI-Bread-Detection](https://github.com/yusuke-1105/AI-Bread-Detection) | Calculates total bread price in images using YOLOX | ![lang](https://img.shields.io/github/languages/top/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) |
+| [DTK-CreativeStudio/U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) | Team project from DTK Creative Studio | ![lang](https://img.shields.io/github/languages/top/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) |
+| [DTK-CreativeStudio/AWS-Robot-Delivery-Challenge](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge) | AWS Robot Delivery Challenge 2020 runner-up entry | ![lang](https://img.shields.io/github/languages/top/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) |
 
 ## 📊 GitHub Stats
 
+> Rendered by [lowlighter/metrics](https://github.com/lowlighter/metrics) via GitHub Actions (`.github/workflows/metrics.yml`), self-hosted in this repo so it doesn't depend on the (frequently overloaded) public github-readme-stats/trophy/activity-graph demo instances.
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yusuke-1105&show_icons=true&count_private=true&hide_border=true&title_color=333333&text_color=000000&icon_color=333333&bg_color=-15,C2EEFF,FFDDFF" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuke-1105&layout=compact&hide_border=true&count_private=true&title_color=333333&text_color=000000&bg_color=-15,C2EEFF,FFDDFF" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.overview.svg" alt="GitHub Metrics Overview" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.languages.svg" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusuke-1105&hide_border=true&background=EEFFFF,00BAD3FF&ring=333333&fire=FF7A7A&currStreakLabel=333333&sideLabels=333333&dates=666666" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusuke-1105&bg_color=ffffff&color=333333&line=6C9BFF&point=FF7A7A&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.calendar.svg" alt="Contribution Calendar" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=yusuke-1105&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.achievements.svg" alt="Achievements" />
 
 </div>
