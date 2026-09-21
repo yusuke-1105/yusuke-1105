@@ -9,24 +9,20 @@
 # 自己紹介
 
 経歴(時系列順ではありません)
-- 関西大学大学院に所属していました
-- HoloLens2を活用し，「タスクヒント」や「他者視点」の提示により発想支援を行うシステムを研究していました（Unity/C#, fastapi/Python）。
-- 友人と共に [walklets.com](https://app.walklets.com) を企画，開発しました
-- インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供
-- オーストラリアや台湾に留学経験あり
-- *TGL College 2019 Development Contest* で優秀賞受賞
-- [***AWS Robot Delivery Challenge 2020***](https://aws.amazon.com/jp/robot-delivery-challenge/comments/) 決勝戦 準優勝
-- [***intel AI Park***](https://webinar.intel.com/IntelAIPark) のイベントである [***intel three challenges 2021***](https://webinar.intel.com/IntelAIPark#openvino)においてAIトレンド賞を獲得
+- 関西大学大学院に所属時代はHoloLens2を活用し、「タスクヒント」や「他者視点」の提示により発想支援を行うシステムを研究していました（Unity/C#, fastapi/Python）
+- インテル株式会社の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供
 - [***Intel® AI Global Impact Festival 2022***](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) でCountry/Region/Territory Recognitionに選出 (AI Impact Creators Category – Ages 18+: Students with AI Projects)
-- 大学の理系学生向けのイベント等を企画
-  [Spring 8](http://www.spring8.or.jp/en/)，[スパコン京](https://www.fujitsu.com/jp/about/businesspolicy/tech/k/whatis/project/#nickname)，旭化成さんの工場見学等
-  見学先や宿泊先，バス等も手配
-  ポスターやパンフレットの制作
+- [***intel AI Park***](https://webinar.intel.com/IntelAIPark) のイベントである [***intel three challenges 2021***](https://webinar.intel.com/IntelAIPark#openvino)においてAIトレンド賞を獲得
+- [***AWS Robot Delivery Challenge 2020***](https://aws.amazon.com/jp/robot-delivery-challenge/comments/) 決勝戦 準優勝
+- *TGL College 2019 Development Contest* で優秀賞受賞
+- 友人と共に [walklets.com](https://app.walklets.com) を企画、開発
+- オーストラリアや台湾に留学経験あり
+
 
 ## 🔭 最近取り組んでいること
 
-- 🔥 [**player-one**](https://github.com/the-ready/player-one) — 現在最も力を入れているプロジェクト。関東エリアのイベント・映画・ライブ情報を横断検索できる静的ダッシュボード（JavaScript）
-- [**english-phrase-book**](https://github.com/yusuke-1105/english-phrase-book) — IT業界で働く人向けの英語フレーズ集（22章・271フレーズ）
+- 🔥 [**player-one**](https://github.com/the-ready/player-one) — 現在最も力を入れているプロジェクト。関東エリアのイベント・映画・ライブ情報を横断検索できる静的ダッシュボードを作成。一連の情報更新をClaude Codeエージェントを駆使し、完全自動化
+- [**english-phrase-book**](https://github.com/yusuke-1105/english-phrase-book) — IT業界で働く人向けの英語フレーズ集作成
 
 ## 🛠️ Tech Stack
 
@@ -41,11 +37,8 @@
 | [yusuke-1105/AI-Bread-Detection](https://github.com/yusuke-1105/AI-Bread-Detection) | YOLOXでパンの合計金額を算出 | ![lang](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![stars](https://img.shields.io/github/stars/yusuke-1105/AI-Bread-Detection?style=flat-square&label=%20) |
 | [OVaaS/ovaas-backend](https://github.com/OVaaS/ovaas-backend) | OVaaSプロジェクトのAI画像処理バックエンド | ![lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/OVaaS/ovaas-backend?style=flat-square&label=%20) |
 | [DTK-CreativeStudio/U.N.I.O.N.](https://github.com/DTK-CreativeStudio/U.N.I.O.N.) | DTK Creative Studioでのチームプロジェクト | ![lang](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/U.N.I.O.N.?style=flat-square&label=%20) |
-| [DTK-CreativeStudio/AWS-Robot-Delivery-Challenge](https://github.com/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge) | AWS Robot Delivery Challenge 2020 準優勝作品 | — | ![stars](https://img.shields.io/github/stars/DTK-CreativeStudio/AWS-Robot-Delivery-Challenge?style=flat-square&label=%20) |
 
 ## 📊 GitHub Stats
-
-> [lowlighter/metrics](https://github.com/lowlighter/metrics) を GitHub Actions で実行し（`.github/workflows/metrics.yml`）、このリポジトリ内でSVGを生成しています。落ちやすい公開デモ版（github-readme-stats／trophy／activity-graph）に依存しないための対応です。
 
 <div align="center">
 
