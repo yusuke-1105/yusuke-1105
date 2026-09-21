@@ -11,9 +11,9 @@
 # 自己紹介
 
 経歴(時系列順ではありません)
-- 関西大学大学院に所属
-- HoloLens2を活用し，「タスクヒント」や「他者視点」の提示により発想支援を行うシステムに関して研究中（Unity/C#, fastapi/Python）。
-- 友人と共に [walklets.com](https://app.walklets.com) を企画，開発
+- 関西大学大学院に所属していました
+- HoloLens2を活用し，「タスクヒント」や「他者視点」の提示により発想支援を行うシステムを研究していました（Unity/C#, fastapi/Python）。
+- 友人と共に [walklets.com](https://app.walklets.com) を企画，開発しました
 - インテル株式会社社員の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供
 - オーストラリアや台湾に留学経験あり
 - *TGL College 2019 Development Contest* で優秀賞受賞
@@ -27,9 +27,8 @@
 
 ## 🔭 最近取り組んでいること
 
-- [**inventory-management**](https://github.com/yusuke-1105/inventory-management) — Claude Code ワークショップ用ベースアプリとして構築した工場向け在庫管理システム（Vue）
 - [**english-phrase-book**](https://github.com/yusuke-1105/english-phrase-book) — IT業界で働く人向けの英語フレーズ集（22章・271フレーズ）
-- [**mcp-azure-client**](https://github.com/yusuke-1105/mcp-azure-client) — Azure MCP サーバーに接続してツールを実行できるインタラクティブCLI（Python）
+- [**player-one**](https://github.com/the-ready/player-one) — 関東エリアのイベント・映画・ライブ情報を横断検索できる静的ダッシュボード（JavaScript）
 
 ## 🛠️ Tech Stack
 

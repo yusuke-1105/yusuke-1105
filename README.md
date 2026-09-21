@@ -12,9 +12,9 @@
 
 My Career (Not in chronological order)
 
-- Working on a creative thinking support system at [KIS LAB](https://www.kis.kansai-u.ac.jp) of Kansai University Graduate School. My system supports ideas by presenting hints and others viewpoints on tasks using the AR of HoloLens2 (Unity/C#, fastapi/Python)
-- Developing [**walklets.com**](https://app.walklets.com) <[Detail](https://kudtk844412490.wordpress.com/2021/10/26/walklets-ai/)>
-- Joinied the [OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project to coorperate to develop some AI Image Processing Programs
+- Worked on a creative thinking support system at [KIS LAB](https://www.kis.kansai-u.ac.jp) of Kansai University Graduate School. My system supported ideas by presenting hints and others viewpoints on tasks using the AR of HoloLens2 (Unity/C#, fastapi/Python)
+- Developed [**walklets.com**](https://app.walklets.com) <[Detail](https://kudtk844412490.wordpress.com/2021/10/26/walklets-ai/)>
+- Joined the [OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project to cooperate on developing AI Image Processing Programs
 - Studied abroad in Australia and Taiwan
 - Won the Excellence Award at *TGL College 2019 Development Contest*
 - Runner-up in the [***AWS Robot Delivery Challenge 2020***](https://aws.amazon.com/jp/robot-delivery-challenge/comments/) finals
@@ -27,9 +27,8 @@ My Career (Not in chronological order)
 
 ## 🔭 Currently working on
 
-- [**inventory-management**](https://github.com/yusuke-1105/inventory-management) — Factory inventory management system built as a Claude Code workshop baseline app (Vue)
 - [**english-phrase-book**](https://github.com/yusuke-1105/english-phrase-book) — An English phrase collection for IT service industry workers (22 chapters, 271 phrases)
-- [**mcp-azure-client**](https://github.com/yusuke-1105/mcp-azure-client) — Interactive CLI for connecting to Azure MCP servers and running their tools (Python)
+- [**player-one**](https://github.com/the-ready/player-one) — Static dashboard aggregating events, movies, and live performances across the Kanto region into a single searchable interface (JavaScript)
 
 ## 🛠️ Tech Stack
 
