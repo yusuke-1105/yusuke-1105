@@ -10,6 +10,7 @@
 
 My Career (Not in chronological order)
 
+- Attended Anthropic Basecamp, Sep 2026
 - During my time at [KIS LAB](https://www.kis.kansai-u.ac.jp) of Kansai University Graduate School, I worked on a creative thinking support system that supported ideas by presenting hints and other viewpoints on tasks using the AR of HoloLens2 (Unity/C#, fastapi/Python)
 - Provided AI Image Processing Programs to the [OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) project
 - Selected for Country/Region/Territory Recognition of [***Intel® AI Global Impact 2022 Festival***](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) (AI Impact Creators Category – Ages 18+: Students with AI Projects)

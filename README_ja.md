@@ -9,6 +9,7 @@
 # 自己紹介
 
 経歴(時系列順ではありません)
+- Anthropic Basecamp Sep 2026に参加
 - 関西大学大学院に所属時代はHoloLens2を活用し、「タスクヒント」や「他者視点」の提示により発想支援を行うシステムを研究していました（Unity/C#, fastapi/Python）
 - インテル株式会社の[OVaaS](https://agreeable-rock-03bb9dd00.azurestaticapps.net) プロジェクトへAI画像処理プログラムを提供
 - [***Intel® AI Global Impact Festival 2022***](https://www.intel.com/content/www/us/en/artificial-intelligence/digital-readiness/winners2022.html) でCountry/Region/Territory Recognitionに選出 (AI Impact Creators Category – Ages 18+: Students with AI Projects)
