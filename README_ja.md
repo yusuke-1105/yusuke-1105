@@ -50,6 +50,4 @@
 
 <img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.calendar.svg" alt="Contribution Calendar" />
 
-<img src="https://raw.githubusercontent.com/yusuke-1105/yusuke-1105/main/metrics.achievements.svg" alt="Achievements" />
-
 </div>
